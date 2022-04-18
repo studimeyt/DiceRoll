@@ -9,6 +9,7 @@ import android.widget.Toast
  * This activity allows the user to roll a dice and view the result
  * on the screen.
  */
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
