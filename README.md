@@ -5,12 +5,12 @@ An app for rolling dice and can be much more.
 
 <table>
   <tr>
-    <td><img src="ScreenShots/1.png" ></td>
-    <td><img src="ScreenShots/2.jpg"></td>
+    <td><img src="ScreenShots/1.png"></td>
+    <td><img src="ScreenShots/2.png"></td>
 
   </tr>
     <tr>
-    <td><img src="screenshots/3.png" ></td>
+    <td><img src="ScreenShots/3.png" ></td>
     <td></td>
       
     </tr>
