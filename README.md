@@ -9,10 +9,10 @@ An app for rolling dice and can be much more.
     <td><img src="ScreenShots/2.png"></td>
 
   </tr>
-    <tr>
+   <tr>
     <td><img src="ScreenShots/3.png" ></td>
       
-    </tr>
+   </tr>
  </table>
 
 
