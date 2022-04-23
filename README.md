@@ -11,7 +11,6 @@ An app for rolling dice and can be much more.
   </tr>
     <tr>
     <td><img src="ScreenShots/3.png" ></td>
-    <td></td>
       
     </tr>
  </table>
